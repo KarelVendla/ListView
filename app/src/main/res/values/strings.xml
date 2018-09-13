@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string name="cd">Code:</string>
+    <string name="ct">City:</string>
+    <string name="clear">CLEAR</string>
+    <string name="search">SEARCH</string>
+</resources>
